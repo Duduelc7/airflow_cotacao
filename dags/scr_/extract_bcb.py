@@ -20,4 +20,3 @@ def extract_cotacao_moedas():
     return df_cotacao
 
 
-print(extract_cotacao_moedas())
